@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jose-gonzalez/Desktop/DroidControlClient-master/libreria/xstream-1.4.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="488e9e4a47afc81d2b2dec3c3eb3a4d0f10fe105">
+        <dex dex="/home/jose-gonzalez/Desktop/DroidControlClient-master/app/build/intermediates/pre-dexed/debug/xstream-1.4.4-729f745bc4c98897c59aa2cfd29b1f31aacbc03f.jar" />
+    </item>
+
+</items>

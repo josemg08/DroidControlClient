@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="app_style" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+    <style name="button_white">
+        <item name="android:background">@drawable/white_button_selector</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#200A5A</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="button_black">
+        <item name="android:background">@drawable/black_square_button_selector</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="button_blue">
+        <item name="android:background">@drawable/blue_square_button_selector</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="button_red">
+        <item name="android:background">@drawable/red_square_button_selector</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="button_green">
+        <item name="android:background">@drawable/green_square_button_selector</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="toolbar_button">
+        <item name="android:background">@drawable/toolbar_button_selector</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="toolbar_button_red">
+        <item name="android:background">@drawable/toolbar_button_selector</item>
+        <item name="android:textColor">#fc0000</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="toolbar_button_green">
+        <item name="android:background">@drawable/toolbar_button_selector</item>
+        <item name="android:textColor">#7ECE55</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="toolbar_button_blue">
+        <item name="android:background">@drawable/toolbar_button_selector</item>
+        <item name="android:textColor">#44ABCD</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
+
+        <!--
+        Develop by Jose Gonzalez
+        2013 - Argentina
+        -->

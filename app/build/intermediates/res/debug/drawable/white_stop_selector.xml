@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:state_pressed="true"
+            android:drawable="@drawable/white_stop_media_press" />
+    <item
+            android:drawable="@drawable/white_stop_media" />
+</selector>
+
+        <!--
+        Develop by Jose Gonzalez
+        2013 - Argentina
+        --><!-- From: file:/home/jose-gonzalez/Desktop/DroidControlClient-master/app/src/main/res/drawable/white_stop_selector.xml -->
