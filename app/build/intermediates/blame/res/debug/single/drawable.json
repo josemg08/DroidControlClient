@@ -1,0 +1,1102 @@
+[
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_full_screen_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_full_screen_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_rigth_square_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_rigth_square_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/logo.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_rigth_square_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_rigth_square_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_stop_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_stop_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_up_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_up_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_pause_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_pause_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_square_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_square_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_back_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_back_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_forward_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_forward_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_back_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_back_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_down.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_down.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_arrow_left_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_arrow_left_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_left_square_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_left_square_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_square_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_square_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_left_square_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_left_square_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/toolbar_keyboard.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/toolbar_keyboard.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_down_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_down_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_square_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_square_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_left_square.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_left_square.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_up_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_up_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_left_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_left_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_down.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_down.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_vol_down.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_vol_down.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_rigth_square_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_rigth_square_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_left_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_left_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_up.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_up.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_skin_presentation_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_skin_presentation_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_stop_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_stop_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_stop_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_stop_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_forward_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_forward_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_skin_presentation_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_skin_presentation_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_pause.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_pause.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_stop_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_stop_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_skin_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_skin_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_vol_up_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_vol_up_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_back_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_back_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_square_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_square_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_skin_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_skin_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_skin_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_skin_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_skin_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_skin_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/while_arrow_left.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/while_arrow_left.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_pause_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_pause_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_pause.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_pause.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_back_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_back_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_pause_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_pause_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_vol_down_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_vol_down_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_skin_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_skin_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_rigth_square_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_rigth_square_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_square_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_square_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_skin_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_skin_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_stop_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_stop_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_skin_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_skin_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_timer_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_timer_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_small_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_small_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_full_screen_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_full_screen_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_skin_game.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_skin_game.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_vol_up.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_vol_up.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/icon_1.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/icon_1.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_left.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_left.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_skin_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_skin_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_skin_presentation_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_skin_presentation_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_square_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_square_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/toolbar_mouse_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/toolbar_mouse_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_arrow_left_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_arrow_left_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_vol_up.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_vol_up.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_skin_game_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_skin_game_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_rigth_square_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_rigth_square_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_stop_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_stop_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_timer_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_timer_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_full_screen_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_full_screen_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_square_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_square_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_left_square_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_left_square_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_skin_game_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_skin_game_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_rigth_square_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_rigth_square_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_small_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_small_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_rigth_square.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_rigth_square.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_rigth_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_rigth_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_stop_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_stop_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_left_square_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_left_square_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_skin_presentation_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_skin_presentation_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_rigth.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_rigth.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_pause_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_pause_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_skin_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_skin_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_rigth_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_rigth_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_square_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_square_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_square_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_square_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_vol_down_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_vol_down_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_full_screen.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_full_screen.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_vol_down.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_vol_down.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_pause_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_pause_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_skin_game_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_skin_game_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_up_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_up_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_vol_down_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_vol_down_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_forward_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_forward_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_back_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_back_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_forward_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_forward_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_skin_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_skin_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_forward_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_forward_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_vol_up_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_vol_up_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_back_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_back_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_timer_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_timer_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_skin_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_skin_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_vol_up_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_vol_up_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_forward_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_forward_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_left_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_left_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_stop_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_stop_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_full_screen_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_full_screen_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_stop_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_stop_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_rigth.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_rigth.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_up.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_up.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_vol_up.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_vol_up.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_skin_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_skin_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_full_screen.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_full_screen.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_square_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_square_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_left_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_left_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_left_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_left_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_vol_down_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_vol_down_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_back_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_back_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_back_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_back_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_up_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_up_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_small_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_small_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_down_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_down_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_skin_presentation_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_skin_presentation_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_square_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_square_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_arrow_right_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_arrow_right_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_up.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_up.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_rigth_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_rigth_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_skin_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_skin_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_vol_down.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_vol_down.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_skin_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_skin_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_forward_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_forward_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_skin_presentation.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_skin_presentation.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_pause.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_pause.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_left_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_left_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_down_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_down_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/toolbar_mouse.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/toolbar_mouse.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_down_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_down_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_vol_up_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_vol_up_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_skin_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_skin_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_stop_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_stop_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_square_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_square_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_left_square_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_left_square_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_skin_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_skin_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_left_square_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_left_square_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_down_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_down_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_square_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_square_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_stop_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_stop_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_rigth_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_rigth_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_rigth_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_rigth_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_left_square.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_left_square.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_left.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_left.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_timer.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_timer.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_pause_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_pause_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_down_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_down_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_skin_presentation_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_skin_presentation_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_skin_game.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_skin_game.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_timer_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_timer_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_full_screen.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_full_screen.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_vol_down_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_vol_down_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_rigth_square_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_rigth_square_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_vol_up.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_vol_up.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_left_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_left_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_vol_up_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_vol_up_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_left_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_left_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_left.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_left.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_skin_game_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_skin_game_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_back_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_back_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_forward_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_forward_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_left_square_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_left_square_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_skin_game.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_skin_game.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_vol_down.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_vol_down.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_skin_presentation.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_skin_presentation.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_skin_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_skin_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_skin_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_skin_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_right.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_right.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_skin_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_skin_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_skin_game_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_skin_game_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_forward_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_forward_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_rigth_square.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_rigth_square.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_full_screen_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_full_screen_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_skin_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_skin_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_down.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_down.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_forward_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_forward_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_skin_game.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_skin_game.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_full_screen.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_full_screen.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_up_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_up_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_vol_up_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_vol_up_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_full_screen_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_full_screen_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_arrow_right_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_arrow_right_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/toolbar_mouse_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/toolbar_mouse_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_timer_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_timer_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_timer_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_timer_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/toolbar_button.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/toolbar_button.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_timer.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_timer.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_vol_down_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_vol_down_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_pause_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_pause_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_up.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_up.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_skin_presentation_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_skin_presentation_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_rigth_square_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_rigth_square_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_pause_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_pause_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_arrow_right.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_arrow_right.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/toolbar_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/toolbar_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_left_square.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_left_square.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_back_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_back_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_forward_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_forward_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_vol_up_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_vol_up_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_full_screen_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_full_screen_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/toolbar_keyboard_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/toolbar_keyboard_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_skin_presentation.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_skin_presentation.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_timer.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_timer.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_skin_presentation_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_skin_presentation_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_back_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_back_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_stop_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_stop_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_skin_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_skin_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_skin_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_skin_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_square_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_square_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/toolbar_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/toolbar_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_right_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_right_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_up_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_up_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_down.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_down.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_rigth_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_rigth_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_skin_game_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_skin_game_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_forward_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_forward_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_back_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_back_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_up_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_up_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_stop_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_stop_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_back_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_back_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_left.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_left.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_skin_game_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_skin_game_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_button_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_button_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/white_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/white_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_back_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_back_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_left_square_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_left_square_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_stop_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_stop_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_timer_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_timer_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_arrow_right_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_arrow_right_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_left_square.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_left_square.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_square_button_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_square_button_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_skin_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_skin_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_up_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_up_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_vol_down_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_vol_down_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_timer.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_timer.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_skin_game_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_skin_game_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_right.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_right.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_timer_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_timer_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_forward_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_forward_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/toolbar_keyboard_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/toolbar_keyboard_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_arrow_down_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_arrow_down_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_full_screen_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_full_screen_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_rigth_square.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_rigth_square.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_skin_presentation.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_skin_presentation.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_back_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_back_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_vol_up_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_vol_up_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_forward_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_forward_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_vol_down_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_vol_down_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_skin_media.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_skin_media.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_forward_media_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_forward_media_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/green_arrow_down_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/green_arrow_down_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/blue_pause.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/blue_pause.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/red_stop_media_press.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/red_stop_media_press.png"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/drawable/black_arrow_rigth_square.png",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/drawable/black_arrow_rigth_square.png"
+    }
+]

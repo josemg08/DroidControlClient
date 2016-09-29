@@ -1,10 +1,14 @@
 apply plugin: 'com.android.application'
 android {
-    compileSdkVersion 17
-    buildToolsVersion "21.1.2"
+    compileSdkVersion 24
+    buildToolsVersion "24.0.2"
 
     defaultConfig {
         applicationId "com.josetomas.client"
+        minSdkVersion 15
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
     }
 
     buildTypes {
@@ -16,5 +20,5 @@ android {
 }
 
 dependencies {
-    compile files('/home/jose-gonzalez/Desktop/DroidControlClient-master/libreria/xstream-1.4.4.jar')
+    compile files('libs/xstream-1.4.4.jar')
 }

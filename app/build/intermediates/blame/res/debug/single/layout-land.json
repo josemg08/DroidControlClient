@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout-land/green_media.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout-land/green_media.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout-land/red_media.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout-land/red_media.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout-land/black_media.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout-land/black_media.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout-land/blue_media.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout-land/blue_media.xml"
+    }
+]

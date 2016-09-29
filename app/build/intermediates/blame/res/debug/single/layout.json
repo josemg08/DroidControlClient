@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/red_custom3x4.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/red_custom3x4.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/presentation.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/presentation.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/red_mousepad.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/red_mousepad.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/blue_custom2x3.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/blue_custom2x3.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/black_media.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/black_media.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/blue_mousepad.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/blue_mousepad.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/green_custom3x4.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/green_custom3x4.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/blue_skin_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/blue_skin_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/black_skin_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/black_skin_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/red_skin_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/red_skin_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/green_presentation.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/green_presentation.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/red_presentation.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/red_presentation.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/droid_control.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/droid_control.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/blue_custom3x4.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/blue_custom3x4.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/black_presentation.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/black_presentation.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/black_custom3x4.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/black_custom3x4.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/green_mousepad.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/green_mousepad.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/blue_media.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/blue_media.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/validate_password.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/validate_password.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/green_media.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/green_media.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/red_custom2x3.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/red_custom2x3.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/black_options.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/black_options.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/red_media.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/red_media.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/splash_screen.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/splash_screen.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/blue_game_control.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/blue_game_control.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/black_custom2x3.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/black_custom2x3.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/green_game_control.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/green_game_control.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/initial_conect.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/initial_conect.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/black_change_name.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/black_change_name.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/black_game_control.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/black_game_control.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/red_game_control.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/red_game_control.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/green_skin_selector.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/green_skin_selector.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/green_custom2x3.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/green_custom2x3.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/blue_presentation.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/blue_presentation.xml"
+    },
+    {
+        "merged": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/res/merged/debug/layout/black_mousepad.xml",
+        "source": "/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/res/layout/black_mousepad.xml"
+    }
+]

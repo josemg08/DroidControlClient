@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DroidControlClient-master.iml" filepath="$PROJECT_DIR$/DroidControlClient-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DroidControlClient.iml" filepath="$PROJECT_DIR$/DroidControlClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/client.iml" filepath="$PROJECT_DIR$/client.iml" />
     </modules>
   </component>
 </project>
-

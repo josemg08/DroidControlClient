@@ -1,2 +1,0 @@
-/home/jose-gonzalez/Desktop/DroidControlClient-master/app/build/intermediates/classes/debug
-/home/jose-gonzalez/Desktop/DroidControlClient-master/app/build/intermediates/pre-dexed/debug/xstream-1.4.4-729f745bc4c98897c59aa2cfd29b1f31aacbc03f.jar

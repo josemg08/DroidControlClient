@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:3:11-41
+		INJECTED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml
+		INJECTED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:5:11-36
+		INJECTED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml
+		INJECTED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:4:11-34
+		INJECTED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml
+		INJECTED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:8:5-47:19
+	android:icon
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:9:18-47
+	android:theme
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:8:18-50
+activity#com.josetomas.client.activities.SplashScreen
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:10:9-18:20
+	android:screenOrientation
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:12:19-56
+	android:noHistory
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:13:19-43
+	android:configChanges
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:11:19-54
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:10:19-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:16:27-74
+service#com.josetomas.client.network.SocketService
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:19:9-57
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:19:18-55
+activity#com.josetomas.client.activities.MClient
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:20:9-22:45
+	android:label
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:21:19-51
+	android:noHistory
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:22:19-43
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:20:19-53
+activity#com.josetomas.client.activities.toolbarActivities.SkinSelector
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:23:9-26:64
+	android:label
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:24:19-48
+	android:noHistory
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:25:19-43
+	android:theme
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:26:19-62
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:23:19-76
+activity#com.josetomas.client.activities.Options
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:27:9-30:64
+	android:label
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:28:19-50
+	android:noHistory
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:29:19-43
+	android:theme
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:30:19-62
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:27:19-53
+activity#com.josetomas.client.activities.ValidatePassword
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:31:9-34:45
+	android:label
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:32:19-60
+	android:noHistory
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:34:19-43
+	android:theme
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:33:19-62
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:31:19-62
+activity#com.josetomas.client.activities.toolbarActivities.MousePad
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:35:9-74
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:35:19-72
+activity#com.josetomas.client.activities.ChangeName
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:36:9-38:45
+	android:noHistory
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:38:19-43
+	android:theme
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:37:19-62
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:36:19-56
+activity#com.josetomas.client.activities.toolbarActivities.Custom
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:39:9-72
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:39:19-70
+activity#com.josetomas.client.activities.toolbarActivities.Media
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:40:9-71
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:40:19-69
+activity#com.josetomas.client.activities.toolbarActivities.Presentation
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:41:9-43:58
+	android:screenOrientation
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:43:19-56
+	android:configChanges
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:42:19-54
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:41:19-76
+activity#com.josetomas.client.activities.toolbarActivities.GameControl
+ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:44:9-46:58
+	android:screenOrientation
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:46:19-56
+	android:configChanges
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:45:19-54
+	android:name
+		ADDED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml:44:19-75
+uses-sdk
+INJECTED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+	android:targetSdkVersion
+		INJECTED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml
+		INJECTED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml
+		INJECTED from /media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/src/main/AndroidManifest.xml

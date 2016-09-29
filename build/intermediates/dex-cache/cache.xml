@@ -2,11 +2,31 @@
 <items version="2" >
 
     <item
-        jar="/home/jose-gonzalez/Desktop/DroidControlClient-master/libreria/xstream-1.4.4.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        is-multidex="true"
+        jar="/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="11f00ffc6052686fe3d7fdceef93df0fb77f203d">
+        <dex dex="/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dc90f3686e7836dc1e1f8ca7fc3b4b6278548be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/libs/xstream-1.4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
         sha1="488e9e4a47afc81d2b2dec3c3eb3a4d0f10fe105">
-        <dex dex="/home/jose-gonzalez/Desktop/DroidControlClient-master/app/build/intermediates/pre-dexed/debug/xstream-1.4.4-729f745bc4c98897c59aa2cfd29b1f31aacbc03f.jar" />
+        <dex dex="/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/transforms/dex/debug/folders/1000/2/xstream-1.4.4_a933f9df603e4fddfebde857476933fa9dd89020/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9311c8b2c4e98ddd56416d85a48a249e4ea6690c">
+        <dex dex="/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b8b97158aba5bbcb85e4e52c52bb4eb089c4cf08/classes.dex" />
     </item>
 
 </items>

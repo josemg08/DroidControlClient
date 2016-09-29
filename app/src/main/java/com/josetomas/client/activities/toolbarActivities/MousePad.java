@@ -114,7 +114,7 @@ public class MousePad extends ToolbarActivities {
             downY2 = event.getX(1);
             float x = event.getX(0) - event.getX(1);
             float y = event.getY(0) - event.getY(1);
-            distance = FloatMath.sqrt(x * x + y * y);
+            distance = (float) Math.sqrt(x * x + y * y);
             return;
         }
 
@@ -128,7 +128,7 @@ public class MousePad extends ToolbarActivities {
         //gets the difference between the fist distance between and the new
         float x = event.getX(0) - event.getX(1);
         float y = event.getY(0) - event.getY(1);
-        float newDistance = FloatMath.sqrt(x * x + y * y);
+        float newDistance = (float) Math.sqrt(x * x + y * y);
         float distanceBetween = newDistance - distance;
 
         int move = Math.abs(moveY1) > Math.abs(moveY2) ? moveY1 : moveY2;

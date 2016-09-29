@@ -1,0 +1,7 @@
+#Thu Sep 29 20:14:10 ART 2016
+base.0=/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b8b97158aba5bbcb85e4e52c52bb4eb089c4cf08
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dc90f3686e7836dc1e1f8ca7fc3b4b6278548be/classes.dex
+base.1=/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dc90f3686e7836dc1e1f8ca7fc3b4b6278548be
+file.0=/media/jose/PandorasBox/workspace/Hephaestus/DroidControlClient/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b8b97158aba5bbcb85e4e52c52bb4eb089c4cf08/classes.dex
